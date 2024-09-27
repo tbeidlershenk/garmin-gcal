@@ -4,3 +4,4 @@ google_api_python_client==2.147.0
 protobuf==5.28.2
 python-dotenv==1.0.1
 Requests==2.32.3
+logger==1.4
