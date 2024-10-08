@@ -3,3 +3,4 @@ venv/
 __pycache__
 credentials.json
 sleep_data.json
+.DS_Store
